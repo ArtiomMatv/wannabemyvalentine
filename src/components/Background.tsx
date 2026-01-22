@@ -4,7 +4,7 @@ import { Polaroids } from '../polaroids';
 const Background = () => {
   const polaroids = Polaroids.map((picture, index) => (
     <Polaroid
-      key={`polariod-${index}`}
+      key={`polaroid-${index}`}
       id={index}
       src={picture.img}
       top={picture.top}
@@ -15,7 +15,11 @@ const Background = () => {
       {picture.caption}
     </Polaroid>
   ));
-  return <div>{polaroids}</div>;
+  return (
+    <div className="absolute inset-0 w-full h-full overflow-hidden pointer-events-none">
+      {polaroids}
+    </div>
+  );
 };
 
 export default Background;

@@ -1,6 +1,7 @@
 // Chenge these to customize buttoms texts
 export const negativeTexts = [
   'No',
+  'Cornelia Bratu! I warn you!',
   'Are you sure?',
   'How dare you?',
   'There is no way back',
@@ -9,7 +10,6 @@ export const negativeTexts = [
   'You gonna be singel',
   'You are dead to me',
   'This is you last chance',
-  'Johnie Hjelm! I warn you!',
   'How can you do it?',
   'After all we went through?',
   'You better run',

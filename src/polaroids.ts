@@ -24,7 +24,7 @@ export const Polaroids: Polroid[] = [
     left: -1,
     index: 3,
     rotate: 6,
-    caption: 'Sunset',
+    caption: 'Skin routine :)',
   },
   {
     img: '/example-3.webp',
@@ -32,7 +32,7 @@ export const Polaroids: Polroid[] = [
     left: 1,
     index: 1,
     rotate: -6,
-    caption: 'Vacation',
+    caption: 'Brussels trip',
   },
   {
     img: '/example-4.webp',
@@ -40,7 +40,7 @@ export const Polaroids: Polroid[] = [
     left: 17,
     index: 5,
     rotate: 6,
-    caption: 'Anniversary',
+    caption: 'Rome',
   },
   {
     img: '/example-5.webp',
@@ -48,7 +48,7 @@ export const Polaroids: Polroid[] = [
     left: 15,
     index: 4,
     rotate: -6,
-    caption: 'Walk with me?',
+    caption: 'Mysterious',
   },
   {
     img: '/example-6.webp',
@@ -56,7 +56,7 @@ export const Polaroids: Polroid[] = [
     left: 17,
     index: 3,
     rotate: 6,
-    caption: 'London Love',
+    caption: 'First picture together',
   },
   {
     img: '/example-7.webp',
@@ -64,7 +64,7 @@ export const Polaroids: Polroid[] = [
     left: 32,
     index: 3,
     rotate: -6,
-    caption: 'Summer vibe',
+    caption: 'Walk with me?',
   },
   {
     img: '/example-8.webp',
@@ -72,7 +72,7 @@ export const Polaroids: Polroid[] = [
     left: 32,
     index: 1,
     rotate: -6,
-    caption: 'Summer vibe',
+    caption: 'Shopping together',
   },
   {
     img: '/example-9.webp',
@@ -80,7 +80,7 @@ export const Polaroids: Polroid[] = [
     left: 32,
     index: 1,
     rotate: -6,
-    caption: 'Birthday celebrations',
+    caption: 'Goooffyy',
   },
   {
     img: '/example-10.webp',
@@ -88,7 +88,7 @@ export const Polaroids: Polroid[] = [
     left: 48,
     index: 8,
     rotate: 6,
-    caption: 'Dance with me',
+    caption: 'Princeseta',
   },
   {
     img: '/example-11.webp',
@@ -96,7 +96,7 @@ export const Polaroids: Polroid[] = [
     left: 49,
     index: 1,
     rotate: 6,
-    caption: 'Merry me?',
+    caption: 'Double dates',
   },
   {
     img: '/example-12.webp',
@@ -104,7 +104,7 @@ export const Polaroids: Polroid[] = [
     left: 49,
     index: 10,
     rotate: 6,
-    caption: 'Iceland',
+    caption: 'Formula 1',
   },
   {
     img: '/example-13.webp',
@@ -112,7 +112,7 @@ export const Polaroids: Polroid[] = [
     left: 65,
     index: 6,
     rotate: -6,
-    caption: 'New York',
+    caption: 'Greece',
   },
   {
     img: '/example-14.webp',
@@ -120,7 +120,7 @@ export const Polaroids: Polroid[] = [
     left: 67,
     index: 6,
     rotate: -6,
-    caption: 'Antumn',
+    caption: 'Sorry about this one :)',
   },
   {
     img: '/example-15.webp',
@@ -128,7 +128,7 @@ export const Polaroids: Polroid[] = [
     left: 67,
     index: 6,
     rotate: 6,
-    caption: 'Yoga Time',
+    caption: 'My cutie',
   },
   {
     img: '/example-16.webp',
@@ -136,7 +136,7 @@ export const Polaroids: Polroid[] = [
     left: 80,
     index: 10,
     rotate: -6,
-    caption: 'Movie evening',
+    caption: 'Beautiful girl',
   },
   {
     img: '/example-17.webp',
@@ -144,7 +144,7 @@ export const Polaroids: Polroid[] = [
     left: 84,
     index: 2,
     rotate: 6,
-    caption: 'Light Celebration',
+    caption: 'Denmark and Jora',
   },
   {
     img: '/example-18.webp',
@@ -152,6 +152,6 @@ export const Polaroids: Polroid[] = [
     left: 82,
     index: 9,
     rotate: -6,
-    caption: 'Merry Christmas',
+    caption: 'Rome but now together',
   },
 ];
