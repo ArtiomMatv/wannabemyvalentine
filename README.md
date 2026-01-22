@@ -19,7 +19,25 @@ To set up the project locally, follow these steps:
 3. **Install Dependencies**: Navigate to the project directory and run `npm install` to install necessary dependencies.
 4. **Environment Setup**: Create a `.env` file in the project root and add your page title as `VITE_SITE_TITLE="Wanna be me Valentine, Mr. Grey?"`.
 5. **Run the Development Server**: Execute `npm run dev` to start the development server.
-6. **Deployment**: Deploy your version of the website on platforms like Netlify or Vercel for public access.
+
+## Deployment to GitHub Pages
+
+This project is configured for automatic deployment to GitHub Pages. Follow these steps:
+
+1. **Enable GitHub Pages**:
+   - Go to your repository on GitHub
+   - Navigate to Settings → Pages
+   - Under "Source", select "GitHub Actions"
+   - Save the settings
+
+2. **Push to Main Branch**:
+   - The GitHub Actions workflow will automatically build and deploy your site when you push to the `main` branch
+   - After deployment, your site will be available at: `https://[your-username].github.io/wannabemyvalentine/`
+
+3. **Manual Deployment** (optional):
+   - You can also manually trigger deployment by going to Actions → Deploy to GitHub Pages → Run workflow
+
+**Note**: If your repository name is different from `wannabemyvalentine`, update the `base` path in `vite.config.ts` to match your repository name.
 
 ## Configuration
 
