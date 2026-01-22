@@ -7,7 +7,7 @@ const Yes = () => {
   const messages = [
     'You get massage in the evening. (1 hour)',
     'You can choose the restaurant we are eating at.',
-    'Secret gift - revealed on valentines day',
+    'Secret gift - revealed on valentines day!',
   ];
 
   const envelopes = messages.map((message, index) => (
